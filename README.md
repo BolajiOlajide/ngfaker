@@ -2,6 +2,16 @@
 
 ## SubModule
 - update the ng-faker upstream with the command: `git submodule update --remote ng-faker`
+More info about submodules can be found [here](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
+
+## Installation
+
+* Clone the project with the command `git clone https://github.com/BolajiOlajide/ngfaker`
+* Install requirements with the command `pip install -r requirements`
+* If you need to update the data, you'll need to pull the submodule with the commands:
+```sh
+git submodule init && git submodule update
+```
 
 ## Maintainers
 

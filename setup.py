@@ -19,7 +19,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='ng-faker',
+    name='ngfaker',
     version='1.0.0',
     description='A python library to generate fake nigerian data',
     long_description=long_description,
@@ -43,7 +43,7 @@ setup(
         'Programming Language :: Python :: 2.7',
     ],
 
-    packages=find_packages(exclude=['contrib', 'docs', 'tests']),
+    packages=find_packages(exclude=['contrib', 'docs', 'tests', 'ng-faker']),
 
     extras_require={
         'test': ['coverage'],
