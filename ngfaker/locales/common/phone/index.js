@@ -1,5 +1,1 @@
-var phone = {};
-
-module.exports = phone;
-
-phone.service_providers = require('./service_providers');
+from .service_providers import serviceproviders
