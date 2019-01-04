@@ -1,4 +1,4 @@
-module.exports = [
+serviceproviders =  [
   'MTN',
   'GLOBACOM',
   'AIRTEL',
