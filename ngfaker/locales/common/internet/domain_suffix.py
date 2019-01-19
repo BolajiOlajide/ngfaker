@@ -1,4 +1,4 @@
-module.exports = [
+domainsuffix = [
   'com',
   'ng',
   'com.ng',
