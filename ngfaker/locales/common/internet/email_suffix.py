@@ -1,4 +1,4 @@
-module.exports = [
+emailsuffix = [
   '4real',
   '4lyfe',
   '4ever',
