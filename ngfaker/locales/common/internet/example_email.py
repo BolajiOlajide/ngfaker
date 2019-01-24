@@ -1,4 +1,4 @@
-module.exports = [
+exampleemail = [
   'example.ng',
   'example.com.ng',
   'example.org',
